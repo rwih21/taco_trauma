@@ -1,8 +1,6 @@
 This is a university project. My first ever game Taco Trauma. Made with Unity.
 
-Initially, I thought of making a hack and slash game, but my knowledge in making games was too little, and the given time was not enough, so I had to make a game with the knowledge I have now.
-Therefore, I switched the genre to a time attack game. Simple concept. I'm proud of it as my first ever game. I made the sprites on my own too. For the main character, I edited an already created
-sprite. For the Taco Monsters and Sandals, I made them on my own using Piskel.
+Initially, I thought of making a hack and slash game, but my limited knowledge of game development and the short timeframe made it challenging. Therefore, I decided to create a game based on the knowledge I currently have and switched the genre to a time attack game. The concept is simple, and I'm proud of it as my first-ever game. I created the sprites myself; for the main character, I edited an existing sprite, while for the Taco Monsters and Sandals, I designed them from scratch using Piskel.
 
 Game Description:
 Taco Trauma is a game that follows the misadventures of a hungry boy
